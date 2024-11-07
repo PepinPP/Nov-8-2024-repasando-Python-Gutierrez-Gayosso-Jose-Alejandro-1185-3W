@@ -67,6 +67,45 @@ pantalla el texto Cereza NO está en la lista.
 ![image](https://github.com/user-attachments/assets/315a3d49-b292-4833-b068-be61f9861091)
 
 --------------------------------------
+9-Utilizando un bucle for, imprimir todos los elementos de una lista. 
+
+![image](https://github.com/user-attachments/assets/b9c62bc5-310f-414e-abf9-7bddef22baea)
+
+![image](https://github.com/user-attachments/assets/a2bff128-79b3-4bb1-8eb7-549121ccee9d)
+
+----------------------------------------
+10-Utilizando un bucle while, imprimir todos los elementos de una lista. 
+
+![image](https://github.com/user-attachments/assets/e41e536c-0f67-46b1-8ddb-361d3608f5a2)
+
+![image](https://github.com/user-attachments/assets/f0d39cd8-2542-43cf-b5d7-ef355b3bf82d)
+
+----------------------------------------
+11-Utilizando un bucle for, imprimir cada uno de los caracteres de una cadena de texto por
+separado.  
+
+![image](https://github.com/user-attachments/assets/26b79b75-cc40-4e42-a608-af7622aa7333)
+
+![image](https://github.com/user-attachments/assets/58161b0e-e272-42ac-8c1f-ffa80012360a)
+
+---------------------------------------
+12-Utilizando bucles for, imprimir el siguiente dibujo: 
+* 
+** 
+*** 
+**** 
+***** 
+**** 
+*** 
+** 
+*
+
+![image](https://github.com/user-attachments/assets/9940168f-8df5-4a38-8725-95a67aa7a5ab)
+
+
+![image](https://github.com/user-attachments/assets/b55af2cb-309e-463d-9be0-45d4b159d41c)
+
+
 
 
 
