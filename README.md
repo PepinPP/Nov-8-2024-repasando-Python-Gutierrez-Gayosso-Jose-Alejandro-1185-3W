@@ -22,3 +22,59 @@ En cualquier otro caso, imprimir el texto: NOTA NO VÁLIDA.
 ![image](https://github.com/user-attachments/assets/05b9c9cc-e927-44af-86f0-48853fcf20e1)
 
 --------------------------------------------
+3-Existen dos variables, una con un nombre y otra con un apellido. Primero se ha de comprobar el nombre, si es igual a Daniel, se comprueba el apellido, si es igual a Ramos, se imprime por pantalla el texto Nombre y apellido correctos. En caso de que el nombre sea Daniel, pero el apellido no sea Ramos, se imprime por pantalla el texto Apellido incorrecto. En caso que el nombre no sea Daniel, se imprime por pantalla el texto Usuario desconocido.
+
+![image](https://github.com/user-attachments/assets/94837f7f-3a93-45d9-b0bc-ba74757e0881)
+
+![image](https://github.com/user-attachments/assets/10b025ee-1094-4b10-ad88-aba4d23075fa)
+
+---------------------------------------------
+4-Dada una lista con diferentes notas, se debe imprimir la más baja y la más alta.
+
+![image](https://github.com/user-attachments/assets/b70e9ade-6746-4844-8956-3f279da4596e)
+
+![image](https://github.com/user-attachments/assets/f36098bd-9b32-477c-90b9-bcac506d238c)
+
+-----------------------------------------------
+5-Comprobar si la fruta cereza se encuentra en una lista de frutas. En caso afirmativo, imprimir
+por pantalla el texto Cereza SÍ está en la lista. En caso contrario, imprimir por
+pantalla el texto Cereza NO está en la lista. 
+
+![image](https://github.com/user-attachments/assets/6659301e-d403-4266-a1da-50d1c8bf42c1)
+
+![image](https://github.com/user-attachments/assets/c0ae2af3-17cb-4d44-ba35-a41599ea33d9)
+
+----------------------------------------------
+6-Dada una lista con nombre y dos apellidos, imprime solo los dos apellidos utilizando índices.
+
+![image](https://github.com/user-attachments/assets/6e840932-a7ad-4ad3-a0e1-26c93fb5170e)
+
+![image](https://github.com/user-attachments/assets/81ece3ea-8a2c-42ee-9b7f-72d3c5150fc4)
+
+-----------------------------
+7-Utilizando rangos, suma el valor de todos los números pares desde el 2 (inclusive) hasta el 100
+(inclusive). 
+
+![image](https://github.com/user-attachments/assets/d69dbec9-cc97-400e-9fc7-8227e137ea74)
+
+![image](https://github.com/user-attachments/assets/f7dadc22-cd94-4b9f-bdef-6a7f926e8fa2)
+
+---------------------------------------
+8-Imprimir la tabla de multiplicar de un número almacenado en una variable utilizando rangos. 
+
+![image](https://github.com/user-attachments/assets/35c30bdc-b12a-42b8-9e36-17613e58e556)
+
+![image](https://github.com/user-attachments/assets/315a3d49-b292-4833-b068-be61f9861091)
+
+--------------------------------------
+
+
+
+
+
+
+
+
+
+
+
